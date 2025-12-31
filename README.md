@@ -13,22 +13,15 @@ Excited to embark on this new journey in tech.
 
 ---
 
-### 🌐 First Project
+### 🌐 Personal Project
 
-🎨 **Personal website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
+🎨 **website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
 
 ---
 
 ### 🛠 Tech Stack
 
-| Languages | Frameworks & Libraries | Tools & Platforms |
-|-----------|----------------------|-----------------|
-| C | React | Git |
-| C++ | React Native | GitHub |
-| Python | - | VS Code |
-| JavaScript | - | Figma |
-| HTML | - | - |
-| CSS | - | - |
+💻 C & C++ | 🐍 Python | ☕ JavaScript | 🌐 HTML & CSS | ⚛️ React | ⚛️ React Native | 🛠 Git & GitHub
 
 ---
 
