@@ -8,12 +8,14 @@ Excited to embark on this new journey in tech.
 ### 🔭 Currently
 
 🐝 Studying **C & C++** at **Hive Helsinki 🇫🇮**  
-❤️ Self-taught **JavaScript, TypeScript, React & React Native**  
-🕺 Drawing inspiration from my dance experience to create unique, user-friendly tools
+🎓 Studying **Bachelor in Computer Engineering & AI**  
+❤️ Self-taught **JavaScript, Python, React & React Native**  
+🕺 Focus on **real-life web/app projects**
+
 
 ### 🌐 Personal Project
 
-🎨 **website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
+🎨 **My website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
 
 ### 🛠 Tech Stack
 
