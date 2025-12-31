@@ -8,7 +8,7 @@ Excited to embark on this new journey in tech.
 ### 🔭 Currently
 
 🐝 Studying **C & C++** at **Hive Helsinki 🇫🇮**  
-🎓 Studying **Bachelor in Computer Engineering & AI**  
+🎓 Studying **Bachelor's in Computer Engineering & AI**  
 ❤️ Self-taught **JavaScript, Python, React & React Native**  
 🕺 Focus on **real-life web/app projects**
 
