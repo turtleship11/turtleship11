@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi! I'm Jaekwang (Robin) Lee 👋
 
-<!--
-**turtleship11/turtleship11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dancer with 20 years of experience, and since 2023, I started coding to build tools and projects I needed as a dancer.  
+Excited to embark on this new journey in tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently
+
+🐝 Studying **C & C++** at **Hive Helsinki 🇫🇮**  
+❤️ Self-taught **JavaScript, TypeScript, React & React Native**  
+🕺 Drawing inspiration from my dance experience to create unique, user-friendly tools
+
+---
+
+### 🌐 First Project
+
+🎨 **Personal website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
+
+---
+
+### 🛠 Tech Stack
+
+| Languages | Frameworks & Libraries | Tools & Platforms |
+|-----------|----------------------|-----------------|
+| C | React | Git |
+| C++ | React Native | GitHub |
+| Python | - | VS Code |
+| JavaScript | - | Figma |
+| HTML | - | - |
+| CSS | - | - |
+
+---
+
+### 📫 Contact
+
+📩 tytut233@gmail.com
+
+---
+
+### ✨ Quote
+
+*Always learning, building, and creating — from dance to code.*
