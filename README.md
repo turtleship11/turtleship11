@@ -5,10 +5,9 @@
 I’m a dancer with 20 years of experience, and since 2023, I started coding to build tools and projects I needed as a dancer.  
 Excited to embark on this new journey in tech.
 
-### 🔭 Currently
 
-🐝 Studying **C & C++** at **Hive Helsinki 🇫🇮**  
-🎓 Studying **Bachelor's in Computer Science & AI**  
+🐝 Studied **C & C++** at **Hive Helsinki 🇫🇮**  
+🎓 Studied **Bachelor's in Computer Science & AI**  
 ❤️ Self-taught **JavaScript, Python, React & React Native**  
 🕺 Focus on **real-life web/app projects**
 
