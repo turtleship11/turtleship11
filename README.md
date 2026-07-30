@@ -9,7 +9,7 @@ I am a Korean web/app developer who was previously a dancer for 20 years.<br>I s
 
 ### 🌍 About Me
 * 🇰🇷 Korean developer based in **Stockholm, Sweden** (previously studied in Denmark & Finland)
-* 🚀 Founder of **Code-motion** (online business & remote collaboration startup) in **2026**
+* 🚀 Founder of **Code-motion** (digital productivity solutions) in **2026**
 * 💡 Started my coding, CS, and AI journey in **2023** 
 * 🛠️ Currently developing a web/app program to boost employee productivity for a mechanical equipment inspection company.
 
