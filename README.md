@@ -1,19 +1,25 @@
 # Hi! I'm Jaekwang (Robin) Lee 👋
 
-📩 tytut233@gmail.com
 
-I am a Korean developer who has studied in Denmark and Finland, and I recently moved and am currently living in Stockholm, Sweden. I started learning coding, computer science, and AI in 2023, and in 2026, I founded an IT startup called Code-motion in Korea, through which I run my business online and collaborate remotely with partners back home. This is an exciting new chapter in my life, and I am putting more passion and energy into it than anything I’ve ever done—while having an incredible amount of fun. Currently, I am developing a custom web and app program to boost employee productivity for a mechanical equipment performance inspection company.
+ **📧 tytut233@gmail.com**
 
+---
 
-🐝 Studied **C & C++** at **Hive Helsinki 🇫🇮**  
-🎓 Studied **Bachelor's in Computer Science & AI**  
-❤️ Self-taught **JavaScript, Python, React & React Native**  
-🕺 Focus on **real-life web/app projects**
+### 🌍 About Me
+* 🇰🇷 Korean developer based in **Stockholm, Sweden** (previously studied in Denmark & Finland)
+* 🚀 Founder of **Code-motion** (IT startup founded in 2026, running business and remote collaborations online)
+* 💡 Started my coding, CS, and AI journey in **2023** — currently living the most exciting and fun chapter of my life!
+* 🛠️ Currently developing a custom web and app program to boost employee productivity for a mechanical equipment performance inspection company.
 
-🌐 Featured Projects (Code-Motion Korea)
+### 💻 Background & Skills
+* 🐝 Studied **C & C++** at Hive Helsinki 🇫🇮
+* 🎓 Studied Bachelor's in **Computer Science & AI**
+* ❤️ Self-taught **JavaScript, Python, React & React Native**
+* 🕺 Focused on building practical, real-life web & app projects
 
-🚀 ilgeon.co.kr – Website development
-🛠️ ilgeonoffice.com – Web service development for boosting employee productivity in mechanical equipment performance inspection companies
+### 🌐 Featured Projects (Code-Motion Korea)
+* 🚀 **[ilgeon.co.kr](https://ilgeon.co.kr)** – Website development
+* 🛠️ **[ilgeonoffice.com](https://ilgeonoffice.com)** – Web service for boosting employee productivity in mechanical equipment performance inspection
 ### 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
