@@ -2,8 +2,7 @@
 
 📩 tytut233@gmail.com
 
-I’m a dancer with 20 years of experience, and since 2023, I started coding to build tools and projects I needed as a dancer.  
-Excited to embark on this new journey in tech.
+I am a Korean developer who has studied in Denmark and Finland, and I recently moved and am currently living in Stockholm, Sweden. I started learning coding, computer science, and AI in 2023, and in 2026, I founded an IT startup called Code-motion in Korea, through which I run my business online and collaborate remotely with partners back home. This is an exciting new chapter in my life, and I am putting more passion and energy into it than anything I’ve ever done—while having an incredible amount of fun. Currently, I am developing a custom web and app program to boost employee productivity for a mechanical equipment performance inspection company.
 
 
 🐝 Studied **C & C++** at **Hive Helsinki 🇫🇮**  
@@ -11,11 +10,10 @@ Excited to embark on this new journey in tech.
 ❤️ Self-taught **JavaScript, Python, React & React Native**  
 🕺 Focus on **real-life web/app projects**
 
+🌐 Featured Projects (Code-Motion Korea)
 
-### 🌐 Personal Project
-
-🎨 **My website as a dancer** – [jrobinlee.com](https://jrobinlee.com)
-
+🚀 ilgeon.co.kr – Website development
+🛠️ ilgeonoffice.com – Web service development for boosting employee productivity in mechanical equipment performance inspection companies
 ### 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
