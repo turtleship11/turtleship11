@@ -20,7 +20,7 @@ I am a Korean web/app developer who was previously a dancer for 20 years.<br>I s
 * 🕺 Focused on building practical, real-life web & app projects
 
 ### 🌐 Featured Projects (Code-Motion Korea)
-* 🚀 **[ilgeon.co.kr](https://ilgeon.co.kr)** – Website development
+* 🚀 **[ilgeon.co.kr](https://ilgeon.co.kr)** – Website development (Server in Korea, may load slowly in Europe)
 * 🛠️ **[ilgeonoffice.com](https://ilgeonoffice.com)** – Web service for boosting employee productivity in mechanical equipment performance inspection
 ### 🛠 Tech Stack
 
