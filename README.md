@@ -2,6 +2,8 @@
 
 
  **📧 tytut233@gmail.com**
+ 
+I am a Korean web/app developer who was previously a dancer for 20 years.<br>I started coding because I wanted to build web and app services needed for the dance community,and that remains my ultimate goal to this day.
 
 ---
 
