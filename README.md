@@ -3,15 +3,15 @@
 
  **📧 tytut233@gmail.com**
  
-I am a Korean web/app developer who was previously a dancer for 20 years.<br>I started coding because I wanted to build web/app services needed for the dance community,<br>and that remains my ultimate goal to this day.
+I am a Korean web/app developer who was previously a dancer for 20 years.<br>I started coding because I wanted to build web/app services needed for the dance community,<br>and that remains my ultimate goal to this day.<br>— currently living the most exciting and fun chapter of my life!
 
 ---
 
 ### 🌍 About Me
 * 🇰🇷 Korean developer based in **Stockholm, Sweden** (previously studied in Denmark & Finland)
-* 🚀 Founder of **Code-motion** (IT startup founded in 2026, running business and remote collaborations online)
-* 💡 Started my coding, CS, and AI journey in **2023** — currently living the most exciting and fun chapter of my life!
-* 🛠️ Currently developing a custom web and app program to boost employee productivity for a mechanical equipment performance inspection company.
+* 🚀 Founder of **Code-motion** (online business & remote collaboration startup) in **2026**
+* 💡 Started my coding, CS, and AI journey in **2023** 
+* 🛠️ Currently developing a web/app program to boost employee productivity for a mechanical equipment inspection company.
 
 ### 💻 Background & Skills
 * 🐝 Studied **C & C++** at Hive Helsinki 🇫🇮
